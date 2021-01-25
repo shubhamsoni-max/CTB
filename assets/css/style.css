@@ -1631,3 +1631,7 @@ section {
   border-radius: 50%;
   margin-bottom: 5rem;
 }
+.coffee-icon i {
+  font-size: 2rem;
+  color: black;
+}
